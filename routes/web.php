@@ -17,3 +17,6 @@ Route::get('/', function () {
 Route::get('/pieChart', function () {
     return view('pieChart2');
 });
+Route::get('/result', function () {
+    return view('main');
+});
