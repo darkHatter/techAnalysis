@@ -33,27 +33,27 @@ function init(){
         'values': [
         {
           'label': 'date A',
-          'values': [80, 5, 10]
+          'values': [80, 5, 10,50]
         },
         {
           'label': 'date B',
-          'values': [30, 10, 45]
+          'values': [30, 10, 45,20]
         },
         {
           'label': 'date E',
-          'values': [38, 20, 35]
+          'values': [38, 20, 35,30]
         },
         {
           'label': 'date F',
-          'values': [58, 10, 35]
+          'values': [58, 10, 35,51]
         },
         {
           'label': 'date D',
-          'values': [55, 60, 34]
+          'values': [55, 60, 34,40]
         },
         {
           'label': 'date C',
-          'values': [26, 40, 25]
+          'values': [26, 40, 25,60]
         }]
 
     };
@@ -62,19 +62,19 @@ function init(){
         'values': [
         {
           'label': 'date A',
-          'values': [10, 40, 15]
+          'values': [10, 40, 15,50]
         },
         {
           'label': 'date B',
-          'values': [30, 40, 45]
+          'values': [30, 40, 45,60]
         },
         {
           'label': 'date D',
-          'values': [55, 30, 34]
+          'values': [55, 30, 34,10]
         },
         {
           'label': 'date C',
-          'values': [26, 40, 85]
+          'values': [26, 40, 85,50]
         }]
 
     };

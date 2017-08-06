@@ -15,5 +15,5 @@ Route::get('/', function () {
     return view('welcome');
 });
 Route::get('/pieChart', function () {
-    return view('pieChart');
+    return view('pieChart2');
 });
